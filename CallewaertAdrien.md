@@ -53,4 +53,4 @@ whether you are looking for help, unconditional help, whatever the problem, or j
 For the birth of my little boy, I walked in the delivery room so much that I broke my shoes and received the guests without.
 
 
-<< [Baillais Frédérique](./README.md)  || Frédérique Baillais ||  [Cherman Natalia](https://github.com/nataliacherman08/challengegroup/blob/main/ChermanNatalia.md) >>
+<< [Baillais Frédérique](https://github.com/FredBail/challenge-markdown/blob/main/BaillaisFrederique.md)  || Frédérique Baillais ||  [Cherman Natalia](https://github.com/nataliacherman08/challengegroup/blob/main/ChermanNatalia.md) >>
