@@ -52,6 +52,5 @@ whether you are looking for help, unconditional help, whatever the problem, or j
 
 For the birth of my little boy, I walked in the delivery room so much that I broke my shoes and received the guests without.
 
-<< Nadja Agostinho || Frédérique Baillais || Adrien Callewaert >>
 
 << [Baillais Frédérique](./README.md)  || Frédérique Baillais ||  [Cherman Natalia](https://github.com/nataliacherman08/challengegroup/blob/main/ChermanNatalia.md) >>
