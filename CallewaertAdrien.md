@@ -25,7 +25,7 @@ I decided to reorient my career in a more promising and exciting sector.
 | Gender      | Man      |
 | Favorite food | Ramen (japan food)      |
 | Favorite color | Cien        |
-| Pinneapple on pizza | [ ]  or   [x]    |
+| Pinneapple on pizza | <ul><li>- [x] yes</li><li>- [ ] no</li></ul> |
 
 
 ## Hobbies
