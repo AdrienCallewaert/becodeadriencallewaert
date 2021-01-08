@@ -12,3 +12,4 @@ La mort est le seul rendez vous qui ne soit pas noté dans votre organizer.*
 
 ## Me, in one sentence 
 
+Since 2014, I made my passion for images my job and I became an art director & print graphic designer.
