@@ -22,16 +22,16 @@ I decided to reorient my career in a more promising and exciting sector.
  | Tables        | Are           |
 | ------------- |:-------------:|
 | Birthday      | 22 / O6 / 89 |
-| Gender      | Man      |
+| Gender      | Male      |
 | Favorite food | Ramen (japan food)      |
 | Favorite color | Cien        |
-| Pinneapple on pizza | <ul><li>- [x] yes</li><li>- [ ] no</li></ul> |
+| Pinneapple on pizza | <ul><li>- [ ] yes</li><li>- [x] no</li></ul> |
 
 
 ## Hobbies
 
-* Unordered list can use asterisks
-* Unordered list can use asterisks
-⋅⋅* Unordered sub-list. 
+* Serie
+* Movie
+    * Unordered sub-list. 
 * Unordered list can use asterisks
 * Unordered list can use asterisks
