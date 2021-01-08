@@ -26,11 +26,10 @@ I decided to reorient my career in a more promising and exciting sector.
 | zebra stripes | are neat      |    $1 |
 
 
- | Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| Birthday      | 22/ O6/ 89 | $1600 |
-| Gender      | centered      |   $12 |
-| Favorite food | are neat      |    $1 |
-| Favorite color | are neat      |    $1 |
-| Favorite color | are neat      |    $1 |
-| Pinneapple on pizza | are neat      |    $1 |
+ | Tables        | Are           |
+| ------------- |:-------------:|
+| Birthday      | 22 / O6 / 89 |
+| Gender      | Man      |
+| Favorite food | Ramen (japan food)      |
+| Favorite color | Cien        |
+| Pinneapple on pizza | [ ]  or   [x]    |
