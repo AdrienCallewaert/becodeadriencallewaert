@@ -19,13 +19,6 @@ I decided to reorient my career in a more promising and exciting sector.
 
 ## My info
 
- | Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
  | Tables        | Are           |
 | ------------- |:-------------:|
 | Birthday      | 22 / O6 / 89 |
@@ -33,3 +26,8 @@ I decided to reorient my career in a more promising and exciting sector.
 | Favorite food | Ramen (japan food)      |
 | Favorite color | Cien        |
 | Pinneapple on pizza | [ ]  or   [x]    |
+
+
+## Hobbies
+
+⋅⋅* Unordered sub-list.
