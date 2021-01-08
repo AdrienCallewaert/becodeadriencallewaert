@@ -26,6 +26,9 @@ I decided to reorient my career in a more promising and exciting sector.
 | Favorite food | Ramen (japan food)      |
 | Favorite color | Cien        |
 | Pinneapple on pizza | <ul><li>- [ ] yes</li><li>- [x] no</li></ul> |
+| Pinneapple on pizza | [ ] yes - [x] no |
+
+(two version for two different management)
 
 
 ## Hobbies
