@@ -19,8 +19,8 @@ I decided to reorient my career in a more promising and exciting sector.
 
 ## My info
 
- | Tables        | Are           |
-| ------------- |:-------------:|
+Questions | Réponses
+------------ | -------------
 | Birthday      | 22 / O6 / 89 |
 | Gender      | Male      |
 | Favorite food | Ramen (japan food)      |
