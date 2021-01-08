@@ -32,6 +32,26 @@ I decided to reorient my career in a more promising and exciting sector.
 
 * Serie
 * Movie
-    * Unordered sub-list. 
-* Unordered list can use asterisks
-* Unordered list can use asterisks
+    * Science fiction 
+    * fantastic
+    * Animation (europe / united states / japan)
+* Drawing
+* SPort
+* eSPort
+    * FPS 
+    * MMO
+    * Retro Gaming
+
+
+## You can always count on me when
+
+whether you are looking for help, unconditional help, whatever the problem, or just a gaming partner. I'm here.
+
+
+## A funny story 
+
+For the birth of my little boy, I walked in the delivery room so much that I broke my shoes and received the guests without.
+
+<< Nadja Agostinho || Frédérique Baillais || Adrien Callewaert >>
+
+<< [Baillais Frédérique](./README.md)  || Frédérique Baillais ||  [Cherman Natalia](https://github.com/nataliacherman08/challengegroup/blob/main/ChermanNatalia.md) >>
