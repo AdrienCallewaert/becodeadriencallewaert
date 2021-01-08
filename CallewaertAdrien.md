@@ -24,3 +24,13 @@ I decided to reorient my career in a more promising and exciting sector.
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+
+ | Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| Birthday      | 22/ O6/ 89 | $1600 |
+| Gender      | centered      |   $12 |
+| Favorite food | are neat      |    $1 |
+| Favorite color | are neat      |    $1 |
+| Favorite color | are neat      |    $1 |
+| Pinneapple on pizza | are neat      |    $1 |
