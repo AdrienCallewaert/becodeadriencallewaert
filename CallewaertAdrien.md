@@ -30,4 +30,8 @@ I decided to reorient my career in a more promising and exciting sector.
 
 ## Hobbies
 
-⋅⋅* Unordered sub-list.
+* Unordered list can use asterisks
+* Unordered list can use asterisks
+⋅⋅* Unordered sub-list. 
+* Unordered list can use asterisks
+* Unordered list can use asterisks
