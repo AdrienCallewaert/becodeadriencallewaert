@@ -19,6 +19,7 @@ I decided to reorient my career in a more promising and exciting sector.
 
 ## My info
 
+ | Tables        | Are           |
 | ------------- |:-------------:|
 | Birthday      | 22 / O6 / 89 |
 | Gender      | Male      |
