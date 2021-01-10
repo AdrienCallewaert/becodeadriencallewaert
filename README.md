@@ -2,7 +2,8 @@
 
 ## My inspirational quote 
 
->*Tout est provisoire : l’amour, l’art, la planète Terre, vous, moi. La mort est tellement inéluctable qu’elle prend tout le monde par surprise. Comment savoir si cette journée n’est pas la dernière ? On croit qu’on a le temps. Et puis tout d’un coup, ça y’est, on se noie, fin du temps réglementaire.
+>*Tout est provisoire : l’amour, l’art, la planète Terre, vous, moi, 
+surtout moi. La mort est tellement inéluctable qu’elle prend tout le monde par surprise. Comment savoir si cette journée n’est pas la dernière ? On croit qu’on a le temps. Et puis tout d’un coup, ça y’est, on se noie, fin du temps réglementaire.
 La mort est le seul rendez vous qui ne soit pas noté dans votre organizer.
 Frédéric Beigbeder*
 
